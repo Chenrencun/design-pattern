@@ -8,7 +8,6 @@ package com.crc.design.pattern.factory;
  */
 public class ConcreteFactory1 implements Factory{
 
-    @Override
     public Product create() {
         System.out.println("具体工厂1生成—>具体产品1");
         return new ConcreteProduct1();
