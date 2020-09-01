@@ -7,7 +7,7 @@ import java.util.List;
  * @author: crc
  * @version:1.0
  * @date: 2020-09-01 17:01
- * @descripton:
+ * @descripton: 具体目标类
  */
 public class ConcreteTarget implements Target{
 
